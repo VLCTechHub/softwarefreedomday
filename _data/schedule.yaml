@@ -1,43 +1,35 @@
-- name: Llegada
+- name: Primera charla
   day:  1
-  time: "9:30 - 9:45"
+  time: "9:30 - 10:00"
 
-- name: Bienvenida y presentación
-  day:  1
-  time: "9:45 - 10:00"
-
-- name: Charla taller sobre generación de ideas
+- name: Segunda charla
   day:  1
   time: "10:00 - 10:30"
 
-- name: Charla taller sobre escritura de abstracts
+- name: Debate
   day:  1
   time: "10:30 - 11:00"
 
 - name: Descanso
   day:  1
-  time: "11:00 - 11:20"
+  time: "11:00 - 11:30"
 
-- name: Charla taller sobre escritura de bios
+- name: Tercera Charla
   day:  1
-  time: "11:20 - 11:50"
+  time: "11:30 - 12:00"
 
-- name: Charla sobre como preparar la presentación y diseño de presentaciones
+- name: Debate
   day:  1
-  time: "11:50 - 12:20"
+  time: "12:00 - 12:30"
 
-- name: Descanso
+- name: Cuarta Charla
   day:  1
-  time: "12:20 - 12:40"
+  time: "12:30 - 13:00"
 
-- name: Charla sobre el día de la charla y tiempo para retocar bios y abstracts
+- name: Debate
   day:  1
-  time: "12:40 - 13:10"
-
-- name: Presentación de las propuestas
-  day:  1
-  time: "13:10 - 13:25"
+  time: "13:00 - 13:30"
 
 - name: Cierre
   day:  1
-  time: "13:25"
+  time: "13:30"

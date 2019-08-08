@@ -147,7 +147,7 @@ section {
   display: flex;
   justify-content: center;
   padding: 25px;
-  background-color: rgba(255,255,255,0.5);
+  background-color: rgba(255,255,255,0.7);
   img {
     max-width: 120px;
   }
@@ -156,9 +156,11 @@ section {
     font-size: 40px;
     margin: 0 20px;
   }
-  .event img {
-    max-height: 80px;
-    border-radius: 50%;
+  .event {
+    padding: 13px 0;
+    img {
+      max-height: 80px;
+    }
   }
 }
 
