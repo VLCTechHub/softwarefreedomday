@@ -1,0 +1,14 @@
+original_repo: https://github.com/vlctechhub/globaldiversitycfpday
+
+volunteers_form: ""
+mentors_form: ""
+attendees_form: "https://ti.to/vlctechhub/global-diversity-cfp-day"
+
+keywords: "diversidad, tecnología, evento, taller, charla, vlctechhub, valencia, conferencia, cfp, técnica, gdcfpd"
+title: "Global Diversity CFP Day - 2 de marzo - VLCTechHub"
+description: "VLCTechHub se une a la iniciativa Global Diversity CPF Day para que des tu primera charla en 2019. Hemos organizado un evento muy participativo donde intercalaremos breves charlas con tiempo para elaborar propuestas de charlas. Tanto si ya tienes una idea en la cabeza que no terminas de saber plasmar, como si no se te ocurre nada aún pero te gustaría probar a ser ponente en alguna conferencia, este evento es para ti."
+ogimage: "https://globaldiversitycfpday.vlctechhub.org/assets/images/vlctechhub_global_diversity_cfp_day.png"
+
+sass:
+    sass_dir: assets/_sass
+    style: compressed

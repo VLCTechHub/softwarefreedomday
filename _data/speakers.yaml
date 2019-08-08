@@ -1,0 +1,26 @@
+- name: Emma López
+  avatar: /assets/images/Emma.jpeg
+  bio: Desarrolla producto en remoto y organiza la conferencia VLCTechFest. Fundadora de la asociación VLCTechHub, centrada en difundir conocimiento tecnológico y potenciar el talento local.
+  twitter: hell03610
+
+- name: Meritxell Calvo
+  avatar: /assets/images/Meritxell.jpg
+  bio: Software crafter. Hizo su primera charla en WomenTechMakers en 2016 y desde entonces no ha parado de compartir. La puedes ver en conferencias de software como Codemotion o Software Crafters Barcelona.
+  twitter: nyan_dev
+
+- name: Raquel M. Carmena
+  avatar: /assets/images/raquel_m_carmena.jpg
+  bio: Aprendiz constante. Cada charla o taller que imparte le proporciona ideas para la siguiente experiencia. No deja de sorprenderse de lo mucho que se aprende compartiendo.
+  twitter: bberrycarmen
+
+- name: Patricia Pons
+  avatar: /assets/images/patricia_pons.jpg
+  bio: Doctora en Informática, coorganiza @IPT_ACMW_es. Ponente en conferencias científicas y eventos como TEDx, Ignite o WomenTechMakers. Le encanta compartir su pasión por la tecnología y ayudar a visibilizar a las mujeres en STEM.
+  twitter: patrypons
+
+- name: Cesar GM
+  avatar: /assets/images/Cesar.jpg
+  bio: Toca ordenadores y monta eventos como IgniteVLC o TEDxCiutatVellaDeValència. Selecciona las mejores propuestas, ayuda, prepara y acompaña a los oradores para que el día de la charla todo vaya sobre ruedas.
+  twitter: interruptme
+
+
