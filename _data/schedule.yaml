@@ -1,34 +1,26 @@
-- name: Primera charla
+- name: Apertura
   day:  1
   time: "9:30 - 10:00"
 
-- name: Segunda charla
+- name: Primera charla
   day:  1
   time: "10:00 - 10:30"
 
-- name: Debate
+- name: Segunda charla
   day:  1
   time: "10:30 - 11:00"
 
-- name: Descanso
+- name: Tercera charla
   day:  1
   time: "11:00 - 11:30"
 
-- name: Tercera Charla
+- name: Descanso
   day:  1
   time: "11:30 - 12:00"
 
 - name: Debate
   day:  1
   time: "12:00 - 12:30"
-
-- name: Cuarta Charla
-  day:  1
-  time: "12:30 - 13:00"
-
-- name: Debate
-  day:  1
-  time: "13:00 - 13:30"
 
 - name: Cierre
   day:  1
