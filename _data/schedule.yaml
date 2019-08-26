@@ -1,6 +1,6 @@
 - name: Apertura
   day:  1
-  time: "9:30 - 10:00"
+  time: "9:45 - 10:00"
 
 - name: Primera charla
   day:  1
@@ -20,7 +20,7 @@
 
 - name: Debate
   day:  1
-  time: "12:00 - 12:30"
+  time: "12:00 - 13:30"
 
 - name: Cierre
   day:  1
