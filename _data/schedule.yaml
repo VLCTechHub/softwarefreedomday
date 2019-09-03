@@ -2,10 +2,10 @@ day1:
   - name: Apertura
     time: "9:45 - 10:00"
 
-  - name: Primera charla
+  - name: Software libre, administración pública y cintas de video. Bárbara Román.
     time: "10:00 - 10:30"
 
-  - name: Segunda charla
+  - name: Impacto de los proyectos libres en nuestro día a día. El caso de Wikimedia. Francesc Fort.
     time: "10:30 - 11:00"
 
   - name: Tercera charla
@@ -14,7 +14,7 @@ day1:
   - name: Descanso
     time: "11:30 - 12:00"
 
-  - name: Debate
+  - name: Debate coloquio
     time: "12:00 - 13:30"
 
   - name: Cierre
