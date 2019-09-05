@@ -15,7 +15,11 @@
       {% for event in events %}
       <tr>
         <td>{{ event.time }}</td>
-        <td>{{ event.name }}</td>
+        <td>{{ event.name }}
+          {% if event.description %}
+            <p>{{event.description}}</p>
+          {% endif %}
+        </td>
       </tr>
       {% endfor %}
     </table>
