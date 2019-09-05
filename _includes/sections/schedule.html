@@ -14,7 +14,7 @@
       {% assign events = site.data.schedule.day1 %}
       {% for event in events %}
       <tr>
-        <td>{{ event.time }}</td>
+        <td class="time">{{ event.time }}</td>
         <td>{{ event.name }}
           {% if event.description %}
             <p>{{event.description}}</p>

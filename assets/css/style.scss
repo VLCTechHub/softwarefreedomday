@@ -196,6 +196,10 @@ header {
 
 }
 
+#schedule {
+  .time { min-width: 14rem; }
+}
+
 #sponsors {
   li {
     list-style-type: none;
