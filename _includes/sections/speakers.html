@@ -7,16 +7,20 @@
     <div class="speakers">
       {% for speaker in site.data.speakers %}
       <div class="speaker">
+        {% if speaker.avatar %}
         <img src={{speaker.avatar}} alt={{speaker.name}} class="avatar">
+        {% endif %}
         <h3>{{speaker.name}}</h3>
+        {% if speaker.twitter %}
         <p class="twitter">
           <a href="https://twitter.com/{{speaker.twitter}}" target="_blank" title={{speaker.twitter}}>
           @{{speaker.twitter}}
           </a>
-        <p>
-        <p class="bio">
-         {{speaker.bio}}
-        </p>
+          </p>
+          {% endif %}
+        <div class="bio">
+         {{speaker.bio | markdownify }}
+        </div>
       </div>
       {%endfor%}
     </div>
