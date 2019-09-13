@@ -1,27 +1,23 @@
-- name: Apertura
-  day:  1
-  time: "9:45 - 10:00"
+day1:
+  - name: Apertura
+    time: "9:45 - 10:00"
 
-- name: Primera charla
-  day:  1
-  time: "10:00 - 10:30"
+  - name: "Software libre, administración pública y cintas de video. Bárbara Román."
+    time: "10:00 - 10:30"
+    description: "¿Qué tiene que ver el software libre con las cintas de video? Que en algunos ámbitos, como la administración pública, no se usa. ¿Existe algún motivo real para esto? ¿Alergia, intolerancia, problemas técnicos? La última vez que revisamos la ley no parecía un problema legal... Hablamos de por qué la administración se resiste, como podemos vencer esta resistencia, y mucho más."
 
-- name: Segunda charla
-  day:  1
-  time: "10:30 - 11:00"
+  - name: "Impacto de los proyectos libres en nuestro día a día. El caso de Wikimedia. Francesc Fort."
+    time: "10:30 - 11:00"
 
-- name: Tercera charla
-  day:  1
-  time: "11:00 - 11:30"
+  - name: "Software Libre y Anarquismo: Herramientas contra la autoridad. Amuza."
+    time: "11:00 - 11:30"
+    description: "El Software Libre empieza a hacerse un hueco entre los movimientos sociales clásicos como el antirracista, el ecologista, el transfeminista, el anticapitalista, el antiespecista, el antimilitarista, el anticarcelario o el movimiento por la autodeterminación de los pueblos. Y lo hace no solo como un movimiento con el fin de acabar con el software privativo, sino también como un proveedor de herramientas (especialmente útiles para el resto de movimientos) para luchar contra el poder o evadir su represión. Hablaremos de esas herramientas; hablaremos de privacidad, de descentralización y de libertad de expresión."
 
-- name: Descanso
-  day:  1
-  time: "11:30 - 12:00"
+  - name: Descanso
+    time: "11:30 - 12:00"
 
-- name: Debate
-  day:  1
-  time: "12:00 - 13:30"
+  - name: Debate coloquio
+    time: "12:00 - 13:30"
 
-- name: Cierre
-  day:  1
-  time: "13:30"
+  - name: Cierre
+    time: "13:30"

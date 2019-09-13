@@ -1,9 +1,9 @@
 original_repo: https://github.com/vlctechhub/freedomsoftwareday
 
-keywords: "diversidad, tecnología, evento, taller, charla, vlctechhub, valencia, conferencia, cfp, técnica, gdcfpd"
+keywords: "software libre, open source, wikipedia, licencias, tecnología, evento, charla, vlctechhub, valencia"
 title: "Software Freedom Day - 21 de septiembre - VLCTechHub"
-description: "VLCTechHub se une a la iniciativa del Software Freedom Day"
-ogimage: "https://globaldiversitycfpday.vlctechhub.org/assets/images/vlctechhub_global_diversity_cfp_day.png"
+description: "VLCTechHub se une a la iniciativa del Software Freedom Day. Una mañana de charlas y debates para reflexionar sobre el impacto del software libre en la sociedad en que vivimos. Vente el próximo 21 de septiembre a participar!"
+ogimage: ""
 
 sass:
     sass_dir: assets/_sass
