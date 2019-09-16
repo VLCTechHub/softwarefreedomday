@@ -9,15 +9,22 @@ day1:
   - name: "Impacto de los proyectos libres en nuestro día a día. El caso de Wikimedia. Francesc Fort."
     time: "10:30 - 11:00"
 
+  - name: Descanso
+    time: "11:00 - 11:15"
+
+  - name: "Democracia y Software Libre. Julian Moyano Reiz."
+    time: "11:15 - 11:45"
+    description: "Implicaciones de la no utilización del software libre en los Poderes Ejecutivo, Legislativo y Jucial. Manipulación de los procesos democráticos mediante utilización de tecnologías y bases de datos opacas."
+
   - name: "Software Libre y Anarquismo: Herramientas contra la autoridad. Amuza."
-    time: "11:00 - 11:30"
+    time: "11:45 - 12:15"
     description: "El Software Libre empieza a hacerse un hueco entre los movimientos sociales clásicos como el antirracista, el ecologista, el transfeminista, el anticapitalista, el antiespecista, el antimilitarista, el anticarcelario o el movimiento por la autodeterminación de los pueblos. Y lo hace no solo como un movimiento con el fin de acabar con el software privativo, sino también como un proveedor de herramientas (especialmente útiles para el resto de movimientos) para luchar contra el poder o evadir su represión. Hablaremos de esas herramientas; hablaremos de privacidad, de descentralización y de libertad de expresión."
 
   - name: Descanso
-    time: "11:30 - 12:00"
+    time: "12:15 - 12:30"
 
   - name: Debate coloquio
-    time: "12:00 - 13:30"
+    time: "12:30 - 13:30"
 
   - name: Cierre
     time: "13:30"
